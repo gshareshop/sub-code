@@ -28,8 +28,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 1,0:01:00.00,0:01:20.00,Right_corner 1.0,,0,0,0,, Salemmax Xin chúc các bạn xem Truyền Hình vui vẻ																									
 Dialogue: 0,0:01:00.00,0:01:20.00,Right_corner 1.1,,0,0,0,,Mọi thất mất về addons xin liên hệ với mình Diễn Đàn HDVietnam.com																									
 Dialogue: 1,0:01:21.00,0:01:40.00,Right_corner 1.0,,0,0,0,, Salemmax																									
-Dialogue: 0,0:01:21.00,0:01:40.00,Right_corner 1.1,,0,0,0,,Thank you for using Addons ***Media Gshare***																									
+Dialogue: 0,0:01:21.00,0:01:40.00,Right_corner 1.1,,0,0,0,,Thank you for using Addons ***Gshare Media***																									
 Dialogue: 1,0:00:00.00,0:01:40.00,Chu nghieng 90 do ben tay phai,,0,0,0,,SALEMMAX																									
 Dialogue: 1,0:01:40.00,2:10:00.00,Chu nghieng 90 do ben tay phai,,0,0,0,,SALEMMAX																									
 Dialogue: 1,2:10:00.00,4:40:00.00,Chu nghieng 90 do ben tay phai,,0,0,0,,SALEMMAX																									
-Dialogue: 1,4:40:00.00,6:40:00.00,Chu nghieng 90 do ben tay phai,,0,0,0,,SALEMMAX																																																		
+Dialogue: 1,4:40:00.00,24:40:00.00,Chu nghieng 90 do ben tay phai,,0,0,0,,SALEMMAX																																																		
